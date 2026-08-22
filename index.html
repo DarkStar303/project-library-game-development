@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project Library - Game Development Portfolio</title>
+    <style>
+        /* Reset y estilos base */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .container {
+            max-width: 1200px;
+            width: 100%;
+        }
+
+        /* Banner */
+        .banner {
+            width: 100%;
+            border-radius: 20px;
+            overflow: hidden;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+        .banner img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        /* Perfil */
+        .profile {
+            display: flex;
+            align-items: center;
+            gap: 25px;
+            background: #1e293b;
+            padding: 25px 30px;
+            border-radius: 20px;
+            margin-bottom: 40px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            flex-wrap: wrap;
+        }
+        .profile img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 4px solid #3b82f6;
+        }
+        .profile-text h1 {
+            font-size: 28px;
+            margin-bottom: 5px;
+            color: #f1f5f9;
+        }
+        .profile-text p {
+            font-size: 18px;
+            color: #94a3b8;
+            line-height: 1.6;
+        }
+
+        /* Galería */
+        .section-title {
+            font-size: 32px;
+            font-weight: 700;
+            margin: 40px 0 20px;
+            color: #f1f5f9;
+            border-left: 6px solid #3b82f6;
+            padding-left: 15px;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 25px;
+        }
+        .card {
+            background: #1e293b;
+            border-radius: 16px;
+            overflow: hidden;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            display: flex;
+            flex-direction: column;
+        }
+        .card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 12px 30px rgba(0,0,0,0.5);
+        }
+        .card img {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+            background: #0f172a;
+        }
+        .card-body {
+            padding: 18px 20px 20px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        .card-body h3 {
+            font-size: 20px;
+            margin-bottom: 8px;
+            color: #f1f5f9;
+        }
+        .card-body p {
+            color: #94a3b8;
+            font-size: 14px;
+            margin-bottom: 15px;
+            flex: 1;
+        }
+        .card-body a {
+            background: #3b82f6;
+            color: white;
+            text-decoration: none;
+            padding: 10px 16px;
+            border-radius: 10px;
+            text-align: center;
+            font-weight: 600;
+            transition: background 0.2s;
+            align-self: flex-start;
+        }
+        .card-body a:hover {
+            background: #2563eb;
+        }
+
+        /* Tecnologías y otros */
+        .tech {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin: 20px 0 30px;
+        }
+        .tech span {
+            background: #1e293b;
+            padding: 8px 18px;
+            border-radius: 30px;
+            font-size: 15px;
+            border: 1px solid #334155;
+            color: #cbd5e1;
+        }
+        .footer {
+            margin-top: 50px;
+            padding-top: 25px;
+            border-top: 1px solid #334155;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 15px;
+            color: #94a3b8;
+        }
+        .footer a {
+            color: #60a5fa;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 700px) {
+            .profile {
+                flex-direction: column;
+                text-align: center;
+            }
+            .profile img {
+                width: 100px;
+                height: 100px;
+            }
+            .gallery {
+                grid-template-columns: 1fr;
+            }
+            .section-title {
+                font-size: 26px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <!-- Banner -->
+        <div class="banner">
+            <img src="assets/Banner.jpeg" alt="Banner" />
+        </div>
+
+        <!-- Perfil -->
+        <div class="profile">
+            <img src="assets/avatar.jpeg" alt="Avatar" />
+            <div class="profile-text">
+                <h1>Hola, soy Alejandro</h1>
+                <p>
+                    Apasionado por crear experiencias interactivas y videojuegos.
+                    Actualmente estudiante de Ing. Sistemas Informáticos en la
+                    Universidad Privada del Valle. Me interesa especialmente el diseño
+                    de mecánicas, la narrativa y la programación de juegos.
+                </p>
+            </div>
+        </div>
+
+        <!-- Galería -->
+        <h2 class="section-title">🕹️ Galería de proyectos</h2>
+        <div class="gallery">
+
+            <!-- Juego 1 -->
+            <div class="card">
+                <img src="./juegos/1.AritmatPlus/capturas/juego1.png" alt="AritmatPlus" />
+                <div class="card-body">
+                    <h3>1. AritmatPlus</h3>
+                    <p>Juego de plataformas educativo con operaciones aritméticas.</p>
+                    <a href="./juegos/1.AritmatPlus/">Ver juego</a>
+                </div>
+            </div>
+
+            <!-- Juego 2 -->
+            <div class="card">
+                <img src="./juegos/2.EcoSprint/capturas/juego2.png" alt="EcoSprint" />
+                <div class="card-body">
+                    <h3>2. EcoSprint</h3>
+                    <p>Clasifica residuos reciclables en un runner educativo.</p>
+                    <a href="./juegos/2.EcoSprint/">Ver juego</a>
+                </div>
+            </div>
+
+            <!-- Juego 3 -->
+            <div class="card">
+                <img src="./juegos/3.SaledSnake/capturas/juego3.png" alt="SaledSnake" />
+                <div class="card-body">
+                    <h3>3. SaledSnake</h3>
+                    <p>Snake educativo sobre alimentación saludable.</p>
+                    <a href="./juegos/3.SaledSnake/">Ver juego</a>
+                </div>
+            </div>
+
+            <!-- Juego 4 -->
+            <div class="card">
+                <img src="./juegos/4.Retogota/capturas/juego4.png" alt="Retogota" />
+                <div class="card-body">
+                    <h3>4. Retogota</h3>
+                    <p>Aprende a ahorrar agua con Gustavo Laura.</p>
+                    <a href="./juegos/4.Retogota/">Ver juego</a>
+                </div>
+            </div>
+
+            <!-- Juego 5 -->
+            <div class="card">
+                <img src="./juegos/5.CiberGost/capturas/juego5.png" alt="CiberGost" />
+                <div class="card-body">
+                    <h3>5. CiberGost</h3>
+                    <p>Explora el mundo digital y aprende ciberseguridad.</p>
+                    <a href="./juegos/5.CiberGost/">Ver juego</a>
+                </div>
+            </div>
+
+            <!-- Juego 6 -->
+            <div class="card">
+                <img src="./juegos/6.ahoracorre/capturas/juego6.png" alt="Ahorra y Corre" />
+                <div class="card-body">
+                    <h3>6. Ahorra y Corre</h3>
+                    <p>Runner financiero para aprender a ahorrar dinero.</p>
+                    <a href="./juegos/6.ahoracorre/">Ver juego</a>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Tecnologías -->
+        <h2 class="section-title">🛠️ Tecnologías y herramientas</h2>
+        <div class="tech">
+            <span>HTML5</span>
+            <span>CSS3</span>
+            <span>JavaScript</span>
+            <span>Git</span>
+            <span>GitHub</span>
+            <span>GitHub Pages</span>
+        </div>
+
+        <!-- Uso de IA -->
+        <h2 class="section-title">🤖 Uso de IA</h2>
+        <p style="color:#94a3b8; font-size:16px; line-height:1.8; margin-bottom:30px;">
+            En los proyectos he utilizado herramientas de inteligencia artificial para:
+            generación de sprites con ChatGPT, asistencia en código con QWEN 3.7,
+            y creación de diálogos o textos.
+        </p>
+
+        <!-- Footer / Contacto -->
+        <div class="footer">
+            <div>
+                © 2025 Alejandro Salazar — Portafolio de Game Development
+            </div>
+            <div>
+                <a href="https://linkedin.com/in/tu-perfil" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
+                <a href="mailto:J.alejandrosalazarq3@email.com">Correo</a> &nbsp;|&nbsp;
+                <a href="https://github.com/DarkStar303/project-library-game-development" target="_blank">GitHub</a>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
