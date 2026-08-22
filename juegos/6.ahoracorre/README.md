@@ -114,7 +114,7 @@ Este videojuego fue desarrollado con asistencia de inteligencia artificial:
 ## ▶️ Cómo jugar
 
 **Jugar online (recomendado):**  
-👉 [**Jugar Ahorra y Corre**](https://DarkStar303.github.io/project-library-game-development/juegos/6.ahoracorre/ahorraycorre.html)
+👉 [**Jugar Ahorra y Corre**](https://DarkStar303.github.io/project-library-game-development/juegos/6.ahoracorre/ahorraycuerre.html)
 
 **Descargar y jugar localmente:**  
 1. Clona el repositorio o descarga los archivos.
