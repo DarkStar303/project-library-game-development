@@ -7,6 +7,7 @@
 ## 👋 Sobre mí
 
 **Hola, soy Alejandro**  
+![avatar](assets/avatar.jpeg)
 Apasionado por crear experiencias interactivas y videojuegos. Actualmente estudiante de Ing. Sistemas Informaticos de la universidad privada del valle. Me interesa especialmente el diseño de mecánicas, la narrativa y la programación de juegos.
 
 ---
