@@ -17,12 +17,12 @@ Apasionado por crear experiencias interactivas y videojuegos. Actualmente estudi
 
 | Juego | Captura |
 |-------|---------|
-| [**1.AritmatPlus**](./juegos/1.AritmatPlus/) |  ![Gameplay](juegos/juego-1-nombre/capturas/gameplay.gif) |
-| [**2.EcoSprint**](./juegos/2.EcoSprint/) |  ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
-| [**3.SaledSnake**](./juegos/3.SaledSnake/) |  ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
-| [**4.Retogota**](./juegos/4.Retogota/) |  ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
-| [**5 Gost**](./juegos/5.CiberGost/) |  ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
-| [**6.ahoracorre**](./juegos/6.ahoracorre/) | ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
+| [**1.AritmatPlus**](./juegos/1.AritmatPlus/) |  ![Gameplay](./juegos/1.AritmatPlus/capturas/juego1) |
+| [**2.EcoSprint**](./juegos/2.EcoSprint/) |  ![Gameplay](./juegos/2.EcoSprint/capturas/juego2.png) |
+| [**3.SaledSnake**](./juegos/3.SaledSnake/) |  ![Gameplay](./juegos/3.SaledSnake/capturas/juego3.png) |
+| [**4.Retogota**](./juegos/4.Retogota/) |  ![Gameplay](./juegos/4.Retogota/capturas/juego4.png) |
+| [**5 CiberGost**](./juegos/5.CiberGost/) |  ![Gameplay](./juegos/5.CiberGost/capturas/juego5.png) |
+| [**6.ahoracorre**](./juegos/6.ahoracorre/) | ![Gameplay](./juegos/6.ahoracorre/capturas/juego6.png) |
 
 
 > Haz clic en el nombre del juego para ver su documentación completa.
