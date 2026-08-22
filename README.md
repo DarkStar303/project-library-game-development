@@ -6,7 +6,7 @@
 
 ## 👋 Sobre mí
 
-<img src="assets/avatar.jpeg" alt="avatar" width="100" style="border-radius: 50%; float: left; margin-right: 15px;" />
+<img src="assets/avatar.jpeg" alt="avatar" width="350" style="border-radius: 50%; float: left; margin-right: 15px;" />
 
 **Hola, soy Alejandro**  
 Apasionado por crear experiencias interactivas y videojuegos. Actualmente estudiante de Ing. Sistemas Informáticos de la universidad privada del valle. Me interesa especialmente el diseño de mecánicas, la narrativa y la programación de juegos.
