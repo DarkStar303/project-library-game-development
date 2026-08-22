@@ -13,11 +13,15 @@ Apasionado por crear experiencias interactivas y videojuegos. Actualmente estudi
 
 ## 🕹️ Galería de proyectos
 
-| Juego | Género | Tecnología | Captura |
-|-------|--------|------------|---------|
-| [**Juego 1**](./juegos/juego-1-nombre/) | Platformer | Unity | ![Gameplay](juegos/juego-1-nombre/capturas/gameplay.gif) |
-| [**Juego 2**](./juegos/juego-2-nombre/) | Shooter | Godot | ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
-| ... | ... | ... | ... |
+| Juego | Captura |
+|-------|---------|
+| [**1.AritmatPlus**](./juegos/1.AritmatPlus/) |  ![Gameplay](juegos/juego-1-nombre/capturas/gameplay.gif) |
+| [**2.EcoSprint**](./juegos/2.EcoSprint/) |  ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
+| [**3.SaledSnake**](./juegos/3.SaledSnake/) |  ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
+| [**4.Retogota**](./juegos/4.Retogota/) |  ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
+| [****](./juegos/juego-2-nombre/) |  ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
+| [**6.ahoracorre**](./juegos/6.ahoracorre/) | ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
+
 
 > Haz clic en el nombre del juego para ver su documentación completa.
 
