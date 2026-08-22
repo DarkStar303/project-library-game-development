@@ -21,7 +21,7 @@ Apasionado por crear experiencias interactivas y videojuegos. Actualmente estudi
 | [**2.EcoSprint**](./juegos/2.EcoSprint/) | <img src="./juegos/2.EcoSprint/capturas/juego2.png" width="200" alt="Gameplay" /> |
 | [**3.SaledSnake**](./juegos/3.SaledSnake/) | <img src="./juegos/3.SaledSnake/capturas/juego3.png" width="200" alt="Gameplay" /> |
 | [**4.Retogota**](./juegos/4.Retogota/) | <img src="./juegos/4.Retogota/capturas/juego4.png" width="200" alt="Gameplay" /> |
-| [**5.CiberGost**](./juegos/5.CiberGost/) | <img src="./juegos/5.CiberGost/capturas/juego5.png" width="200" alt="Gameplay" /> |
+| [**5.CiberGhost**](./juegos/5.CiberGhost/) | <img src="./juegos/5.CiberGhost/capturas/juego5.png" width="200" alt="Gameplay" /> |
 | [**6.ahoracorre**](./juegos/6.ahoracorre/) | <img src="./juegos/6.ahoracorre/capturas/juego6.png" width="200" alt="Gameplay" /> |
 
 
