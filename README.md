@@ -17,12 +17,12 @@ Apasionado por crear experiencias interactivas y videojuegos. Actualmente estudi
 
 | Juego | Captura |
 |-------|---------|
-| [**1.AritmatPlus**](./juegos/1.AritmatPlus/) |  ![Gameplay](./juegos/1.AritmatPlus/capturas/juego1) |
-| [**2.EcoSprint**](./juegos/2.EcoSprint/) |  ![Gameplay](./juegos/2.EcoSprint/capturas/juego2.png) |
-| [**3.SaledSnake**](./juegos/3.SaledSnake/) |  ![Gameplay](./juegos/3.SaledSnake/capturas/juego3.png) |
-| [**4.Retogota**](./juegos/4.Retogota/) |  ![Gameplay](./juegos/4.Retogota/capturas/juego4.png) |
-| [**5 CiberGost**](./juegos/5.CiberGost/) |  ![Gameplay](./juegos/5.CiberGost/capturas/juego5.png) |
-| [**6.ahoracorre**](./juegos/6.ahoracorre/) | ![Gameplay](./juegos/6.ahoracorre/capturas/juego6.png) |
+| [**1.AritmatPlus**](./juegos/1.AritmatPlus/) | <img src="./juegos/1.AritmatPlus/capturas/juego1.png" width="200" alt="Gameplay" /> |
+| [**2.EcoSprint**](./juegos/2.EcoSprint/) | <img src="./juegos/2.EcoSprint/capturas/juego2.png" width="200" alt="Gameplay" /> |
+| [**3.SaledSnake**](./juegos/3.SaledSnake/) | <img src="./juegos/3.SaledSnake/capturas/juego3.png" width="200" alt="Gameplay" /> |
+| [**4.Retogota**](./juegos/4.Retogota/) | <img src="./juegos/4.Retogota/capturas/juego4.png" width="200" alt="Gameplay" /> |
+| [**5.CiberGost**](./juegos/5.CiberGost/) | <img src="./juegos/5.CiberGost/capturas/juego5.png" width="200" alt="Gameplay" /> |
+| [**6.ahoracorre**](./juegos/6.ahoracorre/) | <img src="./juegos/6.ahoracorre/capturas/juego6.png" width="200" alt="Gameplay" /> |
 
 
 > Haz clic en el nombre del juego para ver su documentación completa.
@@ -47,7 +47,7 @@ En los proyectos he utilizado herramientas de inteligencia artificial para:
 
 ## 📬 Contacto
 
-- [LinkedIn](https://linkedin.com/in/tu-perfil)
+- [Correo Institucional](Sqj2031548@est.univalle.edu)
 - [Correo](J.alejandrosalazarq3@email.com)
 
 ---
