@@ -1,6 +1,6 @@
 # 🎮project-library-game-development
 
-![Banner](assets/banner.jpeg)
+![Banner](assets/Banner.jpeg)
 
 ---
 
