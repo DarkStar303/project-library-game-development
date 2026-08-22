@@ -97,7 +97,7 @@ Este videojuego fue desarrollado con asistencia de inteligencia artificial:
 ## ▶️ Cómo jugar
 
 **Jugar online (recomendado):**  
-👉 [**Jugar Aritmat+**](https://DarkStar303.github.io/project-library-game-development/juegos/1.AritmatPlus/)
+👉 [**Jugar Aritmat+**](https://DarkStar303.github.io/project-library-game-development/juegos/1.AritmatPlus/Aritmat+.html)
 
 **Descargar y jugar localmente:**  
 1. Clona el repositorio o descarga los archivos.
