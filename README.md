@@ -6,9 +6,10 @@
 
 ## 👋 Sobre mí
 
+<img src="assets/avatar.jpeg" alt="avatar" width="100" style="border-radius: 50%; float: left; margin-right: 15px;" />
+
 **Hola, soy Alejandro**  
-![avatar](assets/avatar.jpeg)
-Apasionado por crear experiencias interactivas y videojuegos. Actualmente estudiante de Ing. Sistemas Informaticos de la universidad privada del valle. Me interesa especialmente el diseño de mecánicas, la narrativa y la programación de juegos.
+Apasionado por crear experiencias interactivas y videojuegos. Actualmente estudiante de Ing. Sistemas Informáticos de la universidad privada del valle. Me interesa especialmente el diseño de mecánicas, la narrativa y la programación de juegos.
 
 ---
 
@@ -20,7 +21,7 @@ Apasionado por crear experiencias interactivas y videojuegos. Actualmente estudi
 | [**2.EcoSprint**](./juegos/2.EcoSprint/) |  ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
 | [**3.SaledSnake**](./juegos/3.SaledSnake/) |  ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
 | [**4.Retogota**](./juegos/4.Retogota/) |  ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
-| [****](./juegos/juego-2-nombre/) |  ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
+| [**5 Gost**](./juegos/5.CiberGost/) |  ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
 | [**6.ahoracorre**](./juegos/6.ahoracorre/) | ![Gameplay](juegos/juego-2-nombre/capturas/menu.png) |
 
 
